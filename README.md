@@ -12,6 +12,13 @@ En pleine transition vers la cybersécurité, je m’investis dans des projets p
 - [Google Cybersecurity Professional Certificate Badge V2](certifs/google-cybersecurity-badge.pdf)  
 - [Google Cybersecurity Professional Certificate](certifs/google-cybersecurity.pdf)  
 
+## Rapports pratiques
+- [Gestion des autorisations – Journal d’intervention](reports/gestion-autorisations.pdf)  
+- [Vulnerability Assessment Report](reports/vulnerability-assessment.pdf)  
+- [Security Risk Assessment Report](reports/security-risk-assessment.pdf)  
+- [Security Incident Report – OS Hardening](reports/security-incident.pdf)  
+- [Incident Handler’s Journal](reports/incident-handler-journal.pdf)
+  
 ## Contact
 - Email : [ines.boukais4@gmail.com](mailto:ines.boukais4@gmail.com)  
 - LinkedIn : [https://www.linkedin.com/in/ines-boukais](https://www.linkedin.com/in/ines-boukais)  
