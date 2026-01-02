@@ -4,9 +4,9 @@ En pleine transition vers la cybersécurité, je m’investis dans des projets p
 
 ## Projets
 - [TryHackMe Challenges](projects/tryhackme/README.md)
-- [Kali Linux vs Metasploitable 2](projects/kali-metasploitable/rapport.pdf)  
-- [Gestionnaire de fichiers Linux](projects/gestionnaire-linux/rapport.pdf)  
-- [CTF – CSI UMMTO](projects/CTF-CSI/writeup.pdf)
+- [Kali Linux vs Metasploitable 2](projects/kali-metasploitable/README.md)  
+- [Gestionnaire de fichiers Linux](projects/gestionnaire-linux/README.md)  
+- [CTF – CSI UMMTO](projects/CTF-CSI/README.md)
 
 ## Certifications
 - [Google Cybersecurity Professional Certificate Badge V2](certifs/google-cybersecurity-badge.pdf)  
