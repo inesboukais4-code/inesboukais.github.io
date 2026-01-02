@@ -17,7 +17,7 @@ En pleine transition vers la cybersécurité, je m’investis dans des projets p
 - [Vulnerability Assessment Report](reports/vulnerability-assessment.pdf)  
 - [Security Risk Assessment Report](reports/security-risk-assessment.pdf)  
 - [Security Incident Report – OS Hardening](reports/security-incident.pdf)  
-- [Incident Handler’s Journal](reports/incident-handler-journal.pdf)
+- [Incident Handler’s Journal](reports/incident_handlers_journal.pdf)
   
 ## Contact
 - Email : [ines.boukais4@gmail.com](mailto:ines.boukais4@gmail.com)  
