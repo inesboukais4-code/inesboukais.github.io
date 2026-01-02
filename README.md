@@ -10,7 +10,7 @@ En pleine transition vers la cybersécurité, je m’investis dans des projets p
 
 ## Certifications
 - [Google Cybersecurity Professional Certificate Badge V2](certifs/google-cybersecurity-badge.pdf)  
-- [Google Cybersecurity Professional Certificate](certifs/google-cybersecurity.pdf)  
+- [Google Cybersecurity Professional Certificate](certifs/google-cybersecurity-certificate.pdf)  
 
 ## Rapports pratiques
 - [Gestion des autorisations – Journal d’intervention](reports/gestion-autorisations.pdf)  
