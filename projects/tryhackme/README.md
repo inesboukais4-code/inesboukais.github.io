@@ -9,5 +9,5 @@ Participation à plusieurs challenges pratiques sur TryHackMe pour développer d
 - Résolution de problèmes pratiques  
 - Rédaction de write-ups et bonnes pratiques
 
-## Badges / Récompenses
-[📄 Voir mes badges](badges.pdf)
+## Mon profil / Badges
+[Voir mon profil TryHackMe](https://tryhackme.com/p/ines.boukais4)
