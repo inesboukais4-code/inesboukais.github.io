@@ -1,6 +1,7 @@
 # Portfolio – Ines BOUKAIS
 
-En pleine transition vers la cybersécurité, je m’investis dans des projets personnels, challenges TryHackMe et laboratoires de test d’intrusion pour développer mes compétences en pentesting et protection des données.
+Étudiante en informatique en transition vers la cybersécurité, je construis activement mes compétences à travers des labs de pentesting, des challenges TryHackMe et des projets techniques.
+Ce portfolio présente mon parcours et mes expérimentations en analyse de vulnérabilités, sécurité des systèmes et investigation de sécurité.
 
 ## Projets
 - [TryHackMe Challenges](projects/tryhackme/README.md)
